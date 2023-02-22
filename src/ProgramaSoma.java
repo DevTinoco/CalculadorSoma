@@ -12,7 +12,7 @@ public class ProgramaSoma extends JFrame {
 	
 	JTextField numero1 = new JTextField();
 	JTextField numero2 = new JTextField();
-	JLabel mais = new JLabel("+");
+	JLabel mais = new JLabel("   +");
 	JLabel resultado = new JLabel();
 	JButton soma = new JButton("=");
 	
